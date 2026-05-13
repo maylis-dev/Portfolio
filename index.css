@@ -12,11 +12,13 @@ font-family: ‘playlist-script’;
 src:url(‘./framework/fonts/playlist-script/PlaylistScript.eot?#iefix’) format(’embedded-opentype’);
 }
 
+
+
 @font-face {
   font-family: "Onest-VariableFont_wght";
   font-weight: 400;
   font-style: normal;
-  src : url("/fonts/Onest-VariableFont_wght.ttf") format("truetype");
+  src: url("./fonts/Onest-VariableFont_wght.ttf") format("truetype");
 }
 @font-face {
   font-family: 'Playlist Script';
